@@ -25,13 +25,13 @@ const {
     addImagesToArticleArray,
 } = helpers
 
-const deleteAll = async () => {
-    const deletedComments = await Comment.deleteMany({})
-    const deletedArticles = await Article.deleteMany({})
-    console.log(deletedComments)
-    console.log(deletedArticles)
-}
-deleteAll()
+// const deleteAll = async () => {
+//     const deletedComments = await Comment.deleteMany({})
+//     const deletedArticles = await Article.deleteMany({})
+//     console.log(deletedComments)
+//     console.log(deletedArticles)
+// }
+// deleteAll()
 
 
 // Read XML file
