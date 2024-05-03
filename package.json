@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cloudinary": "^2.2.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.3.2",
+    "sanitize-html": "^2.13.0",
+    "xml2js": "^0.6.2"
+  }
+}
